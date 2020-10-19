@@ -1,6 +1,6 @@
 {
   "name": "miniapp-compontents",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "小程序自定义组件",
   "main": "index.js",
   "miniprogram": "src",
