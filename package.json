@@ -1,0 +1,12 @@
+{
+  "name": "miniapp-compontents",
+  "version": "1.0.0",
+  "description": "小程序自定义组件",
+  "main": "index.js",
+  "miniprogram": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MuTong",
+  "license": "ISC"
+}
